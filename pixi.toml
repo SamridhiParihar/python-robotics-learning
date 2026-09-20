@@ -1,5 +1,5 @@
 [workspace]
-authors = ["SamridhiPariar <samparihargeorge@gmail.com>"]
+authors = ["Samridhi Parihar <samparihargeorge@gmail.com>"]
 channels = ["conda-forge"]
 name = "python-robotics-learning"
 platforms = ["osx-arm64"]
