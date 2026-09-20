@@ -1,0 +1,11 @@
+[workspace]
+authors = ["SamridhiPariar <samparihargeorge@gmail.com>"]
+channels = ["conda-forge"]
+name = "python-robotics-learning"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.12.*"
