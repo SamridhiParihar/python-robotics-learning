@@ -1,0 +1,10 @@
+{
+    "name": "Atlas",
+    "battery": 75,
+    "speed": 2.0,
+    "sensors": [
+        "camera",
+        "lidar",
+        "imu"
+    ]
+}

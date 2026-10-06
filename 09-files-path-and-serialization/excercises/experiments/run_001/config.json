@@ -1,0 +1,5 @@
+{
+    "robot": "Atlas",
+    "controller": "PID",
+    "duration": 30
+}

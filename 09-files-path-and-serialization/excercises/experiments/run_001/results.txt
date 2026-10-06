@@ -1,0 +1,4 @@
+--- Experiment Run 001 Results ---
+Status: Completed successfully
+Average Error: 0.042m
+Max Overshoot: 0.12m

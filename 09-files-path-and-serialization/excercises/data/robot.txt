@@ -1,0 +1,3 @@
+Robot: Atlas
+Battery: 87
+Status: operational
