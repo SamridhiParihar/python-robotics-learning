@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = """# Chapter 3 — Python Data Types & Strings
+# Chapter 3 — Python Data Types & Strings
 
 This chapter explains Python's basic built-in data types and gives a strong foundation for working with strings.
 
